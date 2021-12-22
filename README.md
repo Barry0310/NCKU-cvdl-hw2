@@ -19,3 +19,4 @@ python main.py
 - train .py : 訓練模型
 - test .py : 跑 test set
 - dataset .py : 自製 dataset
+- runs : tensorboard 的檔案
